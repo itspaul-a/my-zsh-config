@@ -1,4 +1,4 @@
-# Paul's config for the Zoomer Shell
+# Paul's config
 
 # Enable colors and change prompt:
 autoload -U colors && colors
